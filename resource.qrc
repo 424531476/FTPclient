@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>jie.ico</file>
+  </qresource>
+</RCC>
